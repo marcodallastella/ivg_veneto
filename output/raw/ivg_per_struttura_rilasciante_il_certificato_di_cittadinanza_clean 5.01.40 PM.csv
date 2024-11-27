@@ -1,0 +1,124 @@
+anno,nome,altra_struttura_sanitaria,altro,consultori_familiari,medico_di_fiducia,servizio_ostetrico
+2015,A.O. Integrata Con Università - Verona,2.0,0.0,193.0,135.0,35.0
+2015,Adria,0.0,0.0,9.0,1.0,11.0
+2015,Arzignano,4.0,0.0,30.0,25.0,13.0
+2015,Asolo,1.0,0.0,79.0,4.0,89.0
+2015,Azienda Ospedale - Università Padova,8.0,1.0,14.0,25.0,139.0
+2015,Bassano Del Grappa,1.0,0.0,48.0,16.0,6.0
+2015,Belluno,0.0,0.0,20.0,36.0,19.0
+2015,Bussolengo,1.0,0.0,2.0,4.0,24.0
+2015,Chioggia,0.0,0.0,5.0,27.0,10.0
+2015,Cittadella,3.0,0.0,19.0,82.0,4.0
+2015,Este,3.0,0.0,34.0,28.0,18.0
+2015,Feltre,4.0,0.0,33.0,14.0,40.0
+2015,Legnago,1.0,0.0,3.0,0.0,58.0
+2015,Mirano,12.0,0.0,70.0,97.0,42.0
+2015,Padova,5.0,0.0,34.0,41.0,12.0
+2015,Pieve Di Soligo,4.0,0.0,22.0,45.0,129.0
+2015,Rovigo,1.0,0.0,30.0,53.0,45.0
+2015,S. Dona' Di Piave,1.0,0.0,55.0,17.0,8.0
+2015,Thiene,0.0,0.0,59.0,28.0,20.0
+2015,Treviso,13.0,0.0,118.0,42.0,37.0
+2015,Veneziana,6.0,0.0,125.0,110.0,28.0
+2015,Verona,0.0,0.0,20.0,37.0,12.0
+2015,Vicenza,3.0,1.0,64.0,56.0,22.0
+2016,A.O. Integrata Con Università - Verona,0.0,0.0,185.0,129.0,33.0
+2016,Adria,0.0,0.0,6.0,3.0,24.0
+2016,Arzignano,10.0,0.0,38.0,27.0,6.0
+2016,Asolo,0.0,0.0,60.0,4.0,82.0
+2016,Azienda Ospedale - Università Padova,6.0,0.0,11.0,39.0,115.0
+2016,Bassano Del Grappa,0.0,0.0,35.0,27.0,0.0
+2016,Belluno,0.0,0.0,11.0,15.0,30.0
+2016,Bussolengo,1.0,0.0,16.0,26.0,23.0
+2016,Chioggia,0.0,0.0,11.0,34.0,10.0
+2016,Cittadella,4.0,0.0,33.0,88.0,15.0
+2016,Este,2.0,0.0,39.0,28.0,16.0
+2016,Feltre,6.0,0.0,30.0,16.0,35.0
+2016,Legnago,0.0,0.0,0.0,1.0,56.0
+2016,Mirano,23.0,0.0,67.0,92.0,51.0
+2016,Padova,3.0,0.0,40.0,45.0,3.0
+2016,Pieve Di Soligo,4.0,0.0,25.0,25.0,120.0
+2016,Rovigo,1.0,0.0,20.0,34.0,45.0
+2016,S. Dona' Di Piave,0.0,0.0,45.0,15.0,7.0
+2016,Thiene,2.0,0.0,65.0,25.0,28.0
+2016,Treviso,6.0,0.0,124.0,47.0,49.0
+2016,Veneziana,6.0,0.0,116.0,113.0,22.0
+2016,Verona,1.0,0.0,18.0,39.0,15.0
+2016,Vicenza,1.0,0.0,75.0,70.0,29.0
+2017,A.O. Integrata Con Università - Verona,1.0,0.0,184.0,94.0,21.0
+2017,Azienda Ospedale - Università Padova,4.0,0.0,32.0,56.0,74.0
+2017,Azienda Ulss N. 1 Dolomiti,2.0,0.0,50.0,34.0,64.0
+2017,Azienda Ulss N. 2 Marca Trevigiana,14.0,0.0,216.0,61.0,227.0
+2017,Azienda Ulss N. 3 Serenissima,18.0,1.0,189.0,200.0,70.0
+2017,Azienda Ulss N. 4 Veneto Orientale,0.0,0.0,53.0,17.0,6.0
+2017,Azienda Ulss N. 5 Polesana,4.0,0.0,35.0,49.0,43.0
+2017,Azienda Ulss N. 6 Euganea,10.0,0.0,128.0,137.0,50.0
+2017,Azienda Ulss N. 7 Pedemontana,1.0,0.0,128.0,44.0,21.0
+2017,Azienda Ulss N. 8 Berica,12.0,0.0,108.0,83.0,19.0
+2017,Azienda Ulss N. 9 Scaligera,2.0,0.0,81.0,80.0,81.0
+2018,A.O. Integrata Con Università - Verona,1.0,0.0,144.0,85.0,26.0
+2018,Azienda Ospedale - Università Padova,1.0,0.0,25.0,39.0,76.0
+2018,Azienda Ulss N. 1 Dolomiti,1.0,0.0,47.0,62.0,41.0
+2018,Azienda Ulss N. 2 Marca Trevigiana,26.0,0.0,210.0,79.0,198.0
+2018,Azienda Ulss N. 3 Serenissima,12.0,0.0,224.0,218.0,66.0
+2018,Azienda Ulss N. 4 Veneto Orientale,0.0,0.0,43.0,15.0,4.0
+2018,Azienda Ulss N. 5 Polesana,0.0,0.0,48.0,57.0,56.0
+2018,Azienda Ulss N. 6 Euganea,8.0,0.0,146.0,137.0,42.0
+2018,Azienda Ulss N. 7 Pedemontana,1.0,0.0,107.0,22.0,26.0
+2018,Azienda Ulss N. 8 Berica,5.0,1.0,125.0,66.0,31.0
+2018,Azienda Ulss N. 9 Scaligera,6.0,0.0,75.0,89.0,68.0
+2019,A.O. Integrata Con Università - Verona,0.0,0.0,162.0,123.0,35.0
+2019,Azienda Ospedale - Università Padova,1.0,0.0,18.0,67.0,51.0
+2019,Azienda Ulss N. 1 Dolomiti,5.0,0.0,50.0,38.0,54.0
+2019,Azienda Ulss N. 2 Marca Trevigiana,13.0,0.0,218.0,93.0,146.0
+2019,Azienda Ulss N. 3 Serenissima,19.0,0.0,178.0,192.0,50.0
+2019,Azienda Ulss N. 4 Veneto Orientale,0.0,0.0,46.0,18.0,3.0
+2019,Azienda Ulss N. 5 Polesana,1.0,0.0,44.0,35.0,33.0
+2019,Azienda Ulss N. 6 Euganea,7.0,0.0,173.0,84.0,50.0
+2019,Azienda Ulss N. 7 Pedemontana,3.0,0.0,118.0,32.0,24.0
+2019,Azienda Ulss N. 8 Berica,8.0,0.0,95.0,74.0,29.0
+2019,Azienda Ulss N. 9 Scaligera,3.0,0.0,75.0,85.0,62.0
+2020,A.O. Integrata Con Università - Verona,1.0,0.0,129.0,143.0,38.0
+2020,Azienda Ospedale - Università Padova,7.0,0.0,27.0,71.0,64.0
+2020,Azienda Ulss N. 1 Dolomiti,3.0,0.0,39.0,24.0,70.0
+2020,Azienda Ulss N. 2 Marca Trevigiana,27.0,0.0,235.0,68.0,136.0
+2020,Azienda Ulss N. 3 Serenissima,9.0,0.0,185.0,183.0,51.0
+2020,Azienda Ulss N. 4 Veneto Orientale,0.0,0.0,38.0,19.0,14.0
+2020,Azienda Ulss N. 5 Polesana,1.0,0.0,41.0,46.0,30.0
+2020,Azienda Ulss N. 6 Euganea,5.0,0.0,120.0,134.0,39.0
+2020,Azienda Ulss N. 7 Pedemontana,9.0,2.0,131.0,35.0,22.0
+2020,Azienda Ulss N. 8 Berica,17.0,0.0,126.0,69.0,22.0
+2020,Azienda Ulss N. 9 Scaligera,6.0,0.0,61.0,75.0,57.0
+2021,A.O. Integrata Con Università - Verona,1.0,0.0,163.0,135.0,43.0
+2021,Azienda Ospedale - Università Padova,3.0,0.0,26.0,65.0,74.0
+2021,Azienda Ulss N. 1 Dolomiti,2.0,0.0,45.0,25.0,54.0
+2021,Azienda Ulss N. 2 Marca Trevigiana,20.0,0.0,259.0,88.0,121.0
+2021,Azienda Ulss N. 3 Serenissima,14.0,0.0,153.0,204.0,49.0
+2021,Azienda Ulss N. 4 Veneto Orientale,0.0,0.0,40.0,11.0,4.0
+2021,Azienda Ulss N. 5 Polesana,3.0,0.0,37.0,44.0,35.0
+2021,Azienda Ulss N. 6 Euganea,1.0,0.0,133.0,141.0,41.0
+2021,Azienda Ulss N. 7 Pedemontana,5.0,0.0,120.0,54.0,34.0
+2021,Azienda Ulss N. 8 Berica,11.0,0.0,97.0,52.0,39.0
+2021,Azienda Ulss N. 9 Scaligera,1.0,0.0,42.0,80.0,59.0
+2022,A.O. Integrata Con Università - Verona,1.0,0.0,202.0,140.0,30.0
+2022,Azienda Ospedale - Università Padova,3.0,0.0,24.0,70.0,48.0
+2022,Azienda Ulss N. 1 Dolomiti,2.0,0.0,45.0,15.0,58.0
+2022,Azienda Ulss N. 2 Marca Trevigiana,16.0,0.0,272.0,112.0,133.0
+2022,Azienda Ulss N. 3 Serenissima,21.0,1.0,132.0,221.0,48.0
+2022,Azienda Ulss N. 4 Veneto Orientale,1.0,0.0,36.0,21.0,11.0
+2022,Azienda Ulss N. 5 Polesana,2.0,0.0,41.0,36.0,32.0
+2022,Azienda Ulss N. 6 Euganea,2.0,0.0,201.0,100.0,26.0
+2022,Azienda Ulss N. 7 Pedemontana,2.0,0.0,145.0,69.0,30.0
+2022,Azienda Ulss N. 8 Berica,10.0,0.0,100.0,54.0,39.0
+2022,Azienda Ulss N. 9 Scaligera,1.0,0.0,67.0,77.0,68.0
+2023,A.O. Integrata Con Università - Verona,1.0,0.0,148.0,158.0,24.0
+2023,Azienda Ospedale - Università Padova,2.0,0.0,23.0,50.0,73.0
+2023,Azienda Ulss N. 1 Dolomiti,2.0,0.0,77.0,24.0,31.0
+2023,Azienda Ulss N. 2 Marca Trevigiana,10.0,0.0,318.0,88.0,106.0
+2023,Azienda Ulss N. 3 Serenissima,5.0,0.0,144.0,222.0,45.0
+2023,Azienda Ulss N. 4 Veneto Orientale,1.0,0.0,28.0,11.0,4.0
+2023,Azienda Ulss N. 5 Polesana,1.0,0.0,29.0,33.0,35.0
+2023,Azienda Ulss N. 6 Euganea,3.0,0.0,213.0,101.0,35.0
+2023,Azienda Ulss N. 7 Pedemontana,1.0,0.0,155.0,44.0,44.0
+2023,Azienda Ulss N. 8 Berica,5.0,0.0,142.0,66.0,44.0
+2023,Azienda Ulss N. 9 Scaligera,3.0,0.0,85.0,76.0,73.0
